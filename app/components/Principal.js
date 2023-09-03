@@ -29,7 +29,7 @@ export default function Principal(){
     async function fetchData(){
     
     try{
-      const response= await fetch("http://localhost:8080/")
+      const response= await fetch("https://serverfreemusic.onrender.com/")
 
       const items=await response.json()
       
