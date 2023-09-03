@@ -1,4 +1,4 @@
-import 'C:/Users/Abela/Pictures/Spotify/spotify/styles/global.css';
+import '../styles/global.css';
 
 export const metadata = {
   title: 'Next.js',
